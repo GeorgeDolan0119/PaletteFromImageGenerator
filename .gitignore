@@ -1,0 +1,22 @@
+# Unity generated
+Library/
+Temp/
+obj/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.mdb
+*.pdb
+*.opendb
+*.VC.db
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store

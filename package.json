@@ -1,0 +1,14 @@
+{
+  "name": "com.georgedolan.palettefromimagegenerator",
+  "version": "1.0.0",
+  "displayName": "Palette From Image Generator",
+  "description": "Allows for quick generation of a Unity Color Palette from a Sprite",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["editor", "tools", "productivity"],
+  "author": {
+    "name": "George Dolan",
+    "email": "georgedolan0119@gmail.com",
+    "url": "https://github.com/GeorgeDolan0119"
+  }
+}
